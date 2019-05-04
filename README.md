@@ -73,15 +73,18 @@ Shift-L  Cut     Copy    Paste
 
 #### Save => Crtl + s
 First push and maintain key 1 and push key 2.
-⎚ ⎚ ⎚ ⎚
-⎚ 2 ⎚ ⎚
-1 ⎚ ⎚ ⎚
+<br/>
+⎚ ⎚ ⎚ ⎚ <br/>
+⎚ 2 ⎚ ⎚ <br/>
+1 ⎚ ⎚ ⎚ <br/>
 
 #### Redo => Shift + Crtl + s
 First push and maintain key 1 and push key 2.
+```text
 ⎚ ⎚ 2 ⎚
 1 ⎚ ⎚ ⎚
 ⎚ ⎚ ⎚ ⎚
+```
 
 #### Dot => .
 First push and maintain key 1 and push key 2.
