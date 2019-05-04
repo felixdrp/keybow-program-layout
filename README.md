@@ -72,14 +72,14 @@ Shift-L  Cut     Copy    Paste
 ```
 
 #### Save => Crtl + s
-First push and maintain key 1 and push key 2.
+First push and maintain key 1 and then push key 2.
 ```text
 ⎚ ⎚ ⎚ ⎚
 ⎚ 2 ⎚ ⎚
 1 ⎚ ⎚ ⎚
 ```
 #### Redo => Shift + Crtl + s
-First push and maintain key 1 and push key 2.
+First push and maintain key 1 and then push key 2.
 ```text
 ⎚ ⎚ 2 ⎚
 1 ⎚ ⎚ ⎚
@@ -87,28 +87,28 @@ First push and maintain key 1 and push key 2.
 ```
 
 #### Dot => .
-First push and maintain key 1 and push key 2.
+First push and maintain key 1 and then push key 2.
 ```text
 ⎚ ⎚ ⎚ ⎚
 ⎚ ⎚ ⎚ ⎚
 1 ⎚ 2 ⎚
 ```
 #### Comma => ,
-First push and maintain key 1 and push key 2.
+First push and maintain key 1 and then push key 2.
 ```text
 ⎚ ⎚ ⎚ ⎚
 ⎚ ⎚ ⎚ ⎚
 ⎚ 1 2 ⎚
 ```
 #### Change app => Alt + Tap
-First push and maintain key 1 and push key 2.
+First push and maintain key 1 and then push key 2.
 ```text
 ⎚ ⎚ ⎚ ⎚
 2 ⎚ ⎚ ⎚
 ⎚ 1 ⎚ ⎚
 ```
 #### Change app of same type => Alt + `
-First push and maintain key 1 and push key 2.
+First push and maintain key 1 and then push key 2.
 ```text
 ⎚ ⎚ ⎚ ⎚
 ⎚ 2 ⎚ ⎚
