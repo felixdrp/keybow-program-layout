@@ -8,6 +8,7 @@ Keybow](https://shop.pimoroni.com/products/keybow) macro keyboards.
 ## Experience
 
 It is a good platform for people that like to program ther own keyboard.
+[Keybow wiki](https://github.com/pimoroni/keybow-firmware/wiki)
 
 ## Installation
 
