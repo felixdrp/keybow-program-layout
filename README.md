@@ -78,6 +78,11 @@ First push and maintain key 1 and push key 2.
 ⎚ 2 ⎚ ⎚ <br/>
 1 ⎚ ⎚ ⎚ <br/>
 
+> <br/>
+> ⎚ ⎚ ⎚ ⎚ <br/>
+> ⎚ 2 ⎚ ⎚ <br/>
+> ⎚ ⎚ ⎚ ⎚ <br/>
+
 #### Redo => Shift + Crtl + s
 First push and maintain key 1 and push key 2.
 ```text
