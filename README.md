@@ -36,10 +36,8 @@ follows:
 
 ```lua
 require "layouts/shift" -- for cycling between layouts.
+require "layouts/programing" -- programing layout.
 require "layouts/media-player" -- indispensable media player controls.
-require "layouts/vsc-golang" -- debugging Go programs in VisualStudio Code.
-require "layouts/kdenlive" -- editing video using Kdenlive.
-require "layouts/empty" -- empty, do-nothing layout.
 ```
 
 > You can disable a specific keyboard layout by simply putting two dashes `--`
@@ -55,8 +53,59 @@ The default setup activates the following macro keyboard layouts shown below.
 
 ### Progaming
 
+This layout let you use some of the most used keys on dev.
+It is very useful to have one hand with the mouse and other with 'programing layout'
 
+```text
+┌╌╌╌╌┐  ┌╌╌╌╌┐  ┌╌╌╌╌┐  ┌╌╌╌╌┐
+┊ 11 ┊  ┊  8 ┊  ┊  5 ┊  ┊  2 ┊
+└╌╌╌╌┘  └╌╌╌╌┘  └╌╌╌╌┘  └╌╌╌╌┘
+         Empty   Undo    Backspace ⟵
+┌╌╌╌╌┐  ┌╌╌╌╌┐  ┌╌╌╌╌┐  ┌╌╌╌╌┐
+┊ 10 ┊  ┊  7 ┊  ┊  4 ┊  ┊  1 ┊
+└╌╌╌╌┘  └╌╌╌╌┘  └╌╌╌╌┘  └╌╌╌╌┘
+Shift-L  Cut     Copy    Paste
+┌╌╌╌╌┐  ┌╌╌╌╌┐  ┌╌╌╌╌┐  ┌╌╌╌╌┐
+┊  9 ┊  ┊  6 ┊  ┊  3 ┊  ┊  0 ┊
+└╌╌╌╌┘  └╌╌╌╌┘  └╌╌╌╌┘  └╌╌╌╌┘
+ Ctrl-L  Alt-L   Space   Enter
+```
 
+#### Save => Crtl + s
+First push and maintain key 1 and push key 2.
+⎚ ⎚ ⎚ ⎚
+⎚ 2 ⎚ ⎚
+1 ⎚ ⎚ ⎚
+
+#### Redo => Shift + Crtl + s
+First push and maintain key 1 and push key 2.
+⎚ ⎚ 2 ⎚
+1 ⎚ ⎚ ⎚
+⎚ ⎚ ⎚ ⎚
+
+#### Dot => .
+First push and maintain key 1 and push key 2.
+⎚ ⎚ ⎚ ⎚
+⎚ ⎚ ⎚ ⎚
+1 ⎚ 2 ⎚
+
+#### Comma => ,
+First push and maintain key 1 and push key 2.
+⎚ ⎚ ⎚ ⎚
+⎚ ⎚ ⎚ ⎚
+⎚ 1 2 ⎚
+
+#### Change app => Alt + Tap
+First push and maintain key 1 and push key 2.
+⎚ ⎚ ⎚ ⎚
+2 ⎚ ⎚ ⎚
+⎚ 1 ⎚ ⎚
+
+#### Change app of same type => Alt + `
+First push and maintain key 1 and push key 2.
+⎚ ⎚ ⎚ ⎚
+⎚ 2 ⎚ ⎚
+⎚ 1 ⎚ ⎚
 
 ### Media Player Controls
 
